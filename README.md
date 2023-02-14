@@ -1,4 +1,4 @@
-# OWASP needs to evolve
+# OWASP needs to evolve 
 
 To the [OWASP Board of Directors](https://owasp.org/www-board/) and the Executive Director of the OWASP Foundation,
 
